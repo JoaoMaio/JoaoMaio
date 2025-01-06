@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JoaoMaio, a 23 years old Portuguese programmer. I have my Master's degree in Computer Science and Engineering.
 - 👀 I’m interested in Game Development and also learning new languages.
 - 🌱 I’m currently learning Rust, Godot
+- 🌱 I’m currently working in some personal projects
 
 <!---
 JoaoMaio/JoaoMaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
