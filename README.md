@@ -1,6 +1,13 @@
 <br clear="both">
 
-<h2 align="center">Hi there! I'm Joao Maio, a 23 year old developer based in Portugal, with a Master's Degree in Computer Science taken in Universidade da Beira Interior</h2>
+<h2 align="center"
+
+  Hi there! I'm Joao Maio, a 23-year-old developer based in Portugal, with a Master's Degree in Computer Science from Universidade da Beira Interior.
+  <br></br>
+  I'm currently learning Rust and Godot to deepen my skills in systems programming and game development. While Python has long been my favorite programming language, Rust is quickly becoming a close contender for the top spot!
+  <br></br>
+  I’m excited to explore new technologies and continue building impactful, innovative projects.
+</h2>
 
 ###
 
