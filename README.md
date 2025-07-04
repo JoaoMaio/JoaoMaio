@@ -11,9 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JoaoMaio/count.svg?"  />
-</div>
 
 ###
 
@@ -37,9 +34,6 @@
   </a>
   <a href="mailto:joaomaio.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/joaomaio04" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="telegram logo"  />
   </a>
     <a href="https://joaomaio.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=website&logo=website&label=&color=4b4576&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="website logo"  />
@@ -90,6 +84,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoaoMaio/JoaoMaio/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/JoaoMaio/JoaoMaio/output/snake.svg" alt="Snake animation" /> -->
 
 ###
