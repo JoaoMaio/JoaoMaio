@@ -4,7 +4,7 @@
 
   Hi there! I'm Joao Maio, a 23-year-old developer based in Portugal, with a Master's Degree in Computer Science from Universidade da Beira Interior.
   <br></br>
-  I'm currently learning Rust and Godot to deepen my skills in systems programming and game development. While Python has long been my favorite programming language, Rust is quickly becoming a close contender for the top spot!
+  I'm currently learning Rust and Lua to deepen my skills in systems programming and game development. While Python has long been my favorite programming language, I am actively learning additional languages to broaden my technical skill set and deepen my understanding of software development!
   <br></br>
   I’m excited to explore new technologies and continue building impactful, innovative projects.
 </h2>
