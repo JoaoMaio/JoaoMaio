@@ -4,7 +4,7 @@
 
   Hi there! I'm Joao Maio, a 25-year-old developer based in Portugal, with a Master's Degree in Computer Science from Universidade da Beira Interior.
   <br></br>
-  I'm currently learning Rust and Lua to deepen my skills in systems programming and game development. While Python has long been my favorite programming language, I am actively learning additional languages to broaden my technical skill set and deepen my understanding of software development!
+  Currently building AI agents at Conkord using AWS and Python, my favorite programming language. Passionate about side projects and continuously learning new languages to expand my technical skill set and deepen my understanding of software development.
   <br></br>
   I’m excited to explore new technologies and continue building impactful, innovative projects.
 </h2>
@@ -53,8 +53,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="aws logo"/>
+  <img width="10" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -80,6 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="50" alt="drupal logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
+  <img width="10" />
 
   
 </div>
